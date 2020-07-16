@@ -2,7 +2,7 @@
 
 For more information, go to https://francoiseoche.fr
 
-- 🔭 I’m currently working on OVH Order Funnel
+- 🔭 I’m currently working on @OVH Order Funnel
 - 🌱 I’m currently learning how to be a good a11y/UX-compliant Front-End developer
 - 👯 I’m looking to collaborate on Jeedom (Smart Home) repositories
 - 💬 Ask me about CSS, I just love it !
