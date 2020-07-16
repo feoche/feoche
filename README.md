@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For more information, go to https://francoiseoche.fr
+For more information, go to [francoiseoche.fr](https://francoiseoche.fr)
 
 - 🔭 I’m currently working on @OVH Order Funnel
 - 🌱 I’m currently learning how to be a good a11y/UX-compliant Front-End developer
