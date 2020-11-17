@@ -8,3 +8,6 @@ For more information, go to [francoiseoche.fr](https://francoiseoche.fr)
 - 💬 Ask me about CSS, I just love it !
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm fond of video games, I volunteer in hosting game jams
+
+Twitter : [@francoiseoche](https://twitter.com/francoiseoche)
+LinkedIn : [linkedin.com/in/francois-eoche/](https://www.linkedin.com/in/francois-eoche/)
