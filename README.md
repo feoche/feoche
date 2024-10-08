@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 For more information, go to [francoiseoche.fr](https://francoiseoche.fr)
 
 - 🔭 I’m currently working on [OVHcloud Design System](https://ovh.github.io/design-system/latest/)
-- 🌱 I’m currently learning how to be a good a11y/UX-compliant Front-End developer
-- 👯 I’m looking to collaborate on Smart Home repositories
-- 💬 Ask me about CSS, I just love it !
+- 🌱 I’m fond of UX and a11y topics
+- 👯 I’m looking to collaborate on Design Systems
+- 💬 Ask me about CSS & Regexs, I just love it !
 - 😄 Pronouns: he/him
-- ⚡ Bonus: Volunteering in 6 associations, mostly on web development and video games
+- ⚡ Bonus: Volunteering in 6 tech and cultural associations
